@@ -23,3 +23,4 @@ https://relishapp.com/esambo/practice-game-of-life/docs/evolving-a-dead-cell
 https://relishapp.com/esambo/practice-game-of-life/docs/evolving-a-grid-with-some-cells-in-it
 https://relishapp.com/esambo/practice-game-of-life/docs/cell-configurations-that-are-static
 https://relishapp.com/esambo/practice-game-of-life/docs/evolving-a-grid-over-multiple-generations
+
